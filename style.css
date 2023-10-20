@@ -1,0 +1,14 @@
+#container{
+    background-color:  grey;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.item{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 5px;
+}
